@@ -5,3 +5,11 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: IDEAFilter
+Version: 0.0.1
+Imports: shiny, ggplot2, pillar, crayon, RColorBrewer,
+      waiter
+Suggests: shinytest, testthat
+License: MIT + file LICENSE
+MD5sum: 9a57695d1447e68690295d844727b673
+NeedsCompilation: no
