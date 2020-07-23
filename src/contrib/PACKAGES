@@ -13,3 +13,13 @@ Suggests: shinytest, testthat
 License: MIT + file LICENSE
 MD5sum: 9a57695d1447e68690295d844727b673
 NeedsCompilation: no
+
+Package: profvisAC
+Version: 0.3.6.9100
+Depends: R (>= 3.0)
+Imports: htmlwidgets (>= 0.3.2), stringr
+Suggests: knitr, ggplot2, rmarkdown, testthat, devtools,
+      shiny, htmltools
+License: GPL-3 | file LICENSE
+MD5sum: be53415140536a402a7c495637c63204
+NeedsCompilation: yes
